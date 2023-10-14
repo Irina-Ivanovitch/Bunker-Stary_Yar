@@ -1,7 +1,7 @@
 # Bunker-Stary_Yar
 Mapping d'un bunker underground, avec plus de 200 points de loots en Militaire Tiers-3.
 
-L'ouverture du bunker ne nécéssite un clé.
+L'ouverture du bunker ne nécéssite une carte d'accés.
 
 1- Le fichier Underground_Island_NK.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
 
@@ -15,7 +15,7 @@ L'ouverture du bunker ne nécéssite un clé.
       
 Mapping of an underground bunker, with more than 200 loot points in Military Tiers-3.
 
-Opening the bunker does require a key.
+Opening the bunker requires an access card.
 
 1- The Bunker_Stary_Yar_Key.dze file allows you via DayzEditor Loader to put this mapping on your server.
 
